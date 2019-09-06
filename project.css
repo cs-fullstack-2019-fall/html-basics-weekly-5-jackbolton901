@@ -1,0 +1,21 @@
+header{
+    float:left;
+}
+div{
+    float: right;
+}
+
+form{
+    text-align: center;
+}
+#backg{
+    background-color: darkgray;
+
+}
+.movIt{
+    text-align: center;
+}
+footer{
+   clear: both;
+
+}
