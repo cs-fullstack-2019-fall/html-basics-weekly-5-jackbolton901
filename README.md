@@ -1,3 +1,6 @@
+##### See rubric in drive folder for total scores.
+##### You got very close but you are missing a lot of functionality and some styling. Be sure to include comments and pseudo code in every project assignment!
+
 # HTML/CSS Weekly 5
 
 Reproduce the Google search page
